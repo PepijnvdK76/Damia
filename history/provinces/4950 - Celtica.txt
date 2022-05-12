@@ -1,0 +1,19 @@
+#4950 - Celtica
+
+owner = DFL
+controller = DFL 
+culture = doggian
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = salt
+base_manpower = 1
+add_local_autonomy = 25
+capital = "Celtica"
+is_city = yes 	
+add_core = DFL
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

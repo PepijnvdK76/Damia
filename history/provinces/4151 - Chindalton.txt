@@ -1,0 +1,20 @@
+#4151 - Chindalton
+
+replace_path = "history/provinces/4151-Chindalton.txt"
+owner = PRL
+controller = PRL
+culture = dutch
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Chindalton"
+is_city = yes
+add_core = PRL
+add_local_autonomy = 90
+discovered_by = eastern
+discovered_by = western
+
+
