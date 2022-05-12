@@ -1,15 +1,15 @@
 #Finnish Lappland - Rovaniemi
 
-owner = PRL
-controller = PRL
-add_core = PRL
+owner = PLD
+controller = PLD
+add_core = PLD
 culture = dutch
 religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
 trade_goods = fur
-base_manpower = 1
+base_manpower = 2
 add_local_autonomy = 40
 capital = "Rovaniemi"
 is_city = yes
