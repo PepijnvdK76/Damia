@@ -7,6 +7,19 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
+dwarven ={
+	graphical_culture = westerngfx
+
+	khazadur = {
+		primary = PRL
+		male_names = { Vondren Hjulgron Therkam Grangarn Barrig Bromkahm
+		}
+		female_names = { Tystin Rynvian Brillebelle Jynnyl Brytnys Maerthiel
+		}
+		dynasty_names = { "Gembeard" "Bronzebeard" "Snowhammer" "Boarrider"}
+	}
+}
+
 germanic = {
 	graphical_culture = westerngfx
 

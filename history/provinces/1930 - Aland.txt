@@ -3,7 +3,7 @@
 owner = PRL
 controller = PRL
 add_core = PRL
-culture = dutch
+culture = khazadur
 religion = catholic
 capital = "Mariehamn"
 is_city = yes

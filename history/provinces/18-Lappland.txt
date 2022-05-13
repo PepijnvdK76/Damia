@@ -1,7 +1,7 @@
 #Ume, Åsele, Piteå Lappmarks
 
 capital = "Arvidsjaur"
-culture = sapmi
+culture = khazadur
 religion = catholic
 hre = no
 base_tax = 1 

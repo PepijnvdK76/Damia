@@ -1,18 +1,22 @@
-#Oplandene, incl. Hamar
+#Throt
 
 owner = PRL
 controller = PRL
-add_core = PRL
 culture = khazadur
 religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
-trade_goods = naval_supplies
+trade_goods = fur
 base_manpower = 1
-capital = "Hamar"
+capital = "Throt"
+add_local_autonomy = 25
 is_city = yes
-discovered_by = western
+add_core = PRL
+
+
+
 discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = western
+
+

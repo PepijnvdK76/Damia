@@ -2,7 +2,7 @@
 
 owner = PRL
 controller = PRL
-culture = dutch
+culture = khazadur
 religion = catholic
 capital = "Amhidrus"
 trade_goods = fish

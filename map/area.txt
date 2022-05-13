@@ -536,8 +536,8 @@ central_italy_area = { #3
 # British Isles			 			   #
 ########################################
 
-munster_area = { #4
-	4118 4377 4378 4950
+munster_area = { #3
+	4118 4377 4950
 }
 
 connacht_area = { #3
@@ -628,16 +628,16 @@ ostra_svealand_area = { #4
 	1 4 1930
 }
 
-norrland_area = { #4
-	9 11 18 4114
+norrland_area = { #3
+	 11 4378 4113
 }
 
 finland_area = { #5
 	27 28 29 31 4123
 }
 
-bothnia_area = { #3
-	19 4113 4152
+bothnia_area = { #2
+	19 4152
 }
 
 laponia_area = { #3

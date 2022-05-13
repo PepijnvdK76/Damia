@@ -1,9 +1,9 @@
 #Finnish Lappland - Rovaniemi
 
-owner = PLD
-controller = PLD
-add_core = PLD
-culture = dutch
+owner = PRL
+controller = PRL
+add_core = PRL
+culture = khazadur 
 religion = catholic
 hre = no
 base_tax = 1 

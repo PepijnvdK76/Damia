@@ -2,7 +2,7 @@
 
 owner = PRL
 controller = PRL
-culture = arawak
+culture = khazadur
 religion = animism
 capital = "Wayward Isle"
 trade_goods = unknown
