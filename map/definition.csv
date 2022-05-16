@@ -23,7 +23,7 @@ x;red;green;blue;x;x
 22;3;76;128;Oplandene;x
 23;131;78;192;Bergenshus;x
 24;3;80;255;Stavanger;x
-25;131;82;0;Gotland;x
+25;131;82;0;Ithur;x
 26;3;84;64;Halland;x
 27;131;86;128;Finland;x
 28;4;88;192;Nyland;x
@@ -365,7 +365,7 @@ x;red;green;blue;x;x
 364;52;120;255;Gaza;x
 365;180;122;0;Sinai;x
 366;52;124;64;The Canarias;x
-367;180;126;128;The Azores;x
+367;180;126;128;Agera;x
 368;52;128;192;Madeira;x
 369;180;130;255;Orkney;x
 370;52;132;0;Reykjavik;x
@@ -1578,7 +1578,7 @@ x;red;green;blue;x;x
 1578;73;202;202;Canary Approach;x
 1579;74;202;252;Cap Verde Approach;x
 1580;75;222;252;Central Atlantic #1;x
-1581;76;252;252;Central Atlantic #2;x
+1581;76;252;252;Bay of Ithur;x
 1582;77;202;202;Central Atlantic #3;x
 1583;78;202;252;Central Atlantic #4;x
 1584;79;222;252;Romanche Gap;x

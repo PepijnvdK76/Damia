@@ -1,7 +1,7 @@
 #Lapland, the far north wastelands.
 
 capital = "Jokkmokk"
-culture = sapmi
+culture = khazadur
 religion = catholic
 hre = no
 base_tax = 1 
@@ -13,18 +13,14 @@ native_size = 3
 native_ferocity = 2
 discovered_by = eastern
 discovered_by = western
+owner = PRL
+controller = PRL
+add_core = PRL
+is_city = yes
+add_local_autonomy = 90
+trade_goods = fur
 
-1440.1.1 = {
-	owner = SWE
-	controller = SWE 
-	add_core = SWE
-	is_city = yes
-	add_local_autonomy = 90
-	trade_goods = fur
-}
-1640.1.2 = { culture = swedish }
-1640.1.2 = { religion = protestant }
-1650.1.1 = { trade_goods = iron }
-1652.1.1 = { capital = "Kiruna" }
+
+
 
 
