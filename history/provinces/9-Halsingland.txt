@@ -1,9 +1,9 @@
 #Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 
-add_core = PRL
-owner = PRL
-controller = PRL
-culture = khazadur
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
 religion = catholic
 hre = no
 base_tax = 2 
@@ -16,4 +16,4 @@ discovered_by = eastern
 discovered_by = western
 
 
-
+1527.6.1 = { religion = protestant}

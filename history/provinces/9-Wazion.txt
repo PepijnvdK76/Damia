@@ -1,0 +1,19 @@
+#Wazion
+
+add_core = PRL
+owner = PRL
+controller = PRL
+culture = khazadur
+religion = catholic
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = fish
+base_manpower = 1
+capital = "Wazion"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+
+
+

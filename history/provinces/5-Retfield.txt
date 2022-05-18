@@ -1,0 +1,24 @@
+#Retfield
+
+add_core = PRL
+owner = PRL
+controller = PRL
+culture = khazadur
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = iron
+base_manpower = 1
+capital = "Retfield"
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+

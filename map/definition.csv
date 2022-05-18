@@ -1,14 +1,14 @@
 x;red;green;blue;x;x
-1;128;34;64;Stockholm;x
-2;0;36;128;�sterg�tland;x
+1;128;34;64;Orleyme;x
+2;0;36;128;Khunduzah;x
 3;128;38;192;Sm�land;x
-4;0;40;255;Bergslagen;x
-5;128;42;0;V�rmland;x
+4;0;40;255;Gatharb;x
+5;128;42;0;Retfield;x
 6;0;44;64;Sk�ne;x
 7;129;46;128;V�sterg�tland;x
-8;1;48;192;Dalaskogen;x
-9;129;50;255;Throt;x
-10;1;52;0;J�mtland;x
+8;1;48;192;Herreter;x
+9;129;50;255;Wazion;x
+10;1;52;0;Throt;x
 11;129;54;64;V�sterbotten;x
 12;1;56;128;Sj�lland;x
 13;129;58;192;Slesvig;x
@@ -16,10 +16,10 @@ x;red;green;blue;x;x
 15;130;62;0;Midtjylland;x
 16;2;64;64;Bohusl�n;x
 17;130;66;128;Akershus;x
-18;2;68;192;Ume�;x
+18;2;68;192;Helsinor;x
 19;130;70;255;�sterbotten;x
-20;2;72;0;Tr�ndelag;x
-21;131;74;64;H�logaland;x
+20;2;72;0;Penilboli;x
+21;131;74;64;Shathuzah;x
 22;3;76;128;Oplandene;x
 23;131;78;192;Bergenshus;x
 24;3;80;255;Stavanger;x
@@ -365,7 +365,7 @@ x;red;green;blue;x;x
 364;52;120;255;Gaza;x
 365;180;122;0;Sinai;x
 366;52;124;64;The Canarias;x
-367;180;126;128;Agera;x
+367;180;126;128;The Azores;x
 368;52;128;192;Madeira;x
 369;180;130;255;Orkney;x
 370;52;132;0;Reykjavik;x
@@ -979,7 +979,7 @@ x;red;green;blue;x;x
 979;148;66;79;Aleut;x
 980;20;68;126;Beothuk;x
 981;149;70;173;Taqamkuk;x
-982;21;72;32;Unamakik;x
+982;21;72;32;Weshamney;x
 983;149;74;79;Epekwitk;x
 984;21;76;126;Acadia;x
 985;149;78;173;Micmac;x
@@ -1927,7 +1927,7 @@ x;red;green;blue;x;x
 1927;62;218;252;Eastern baltic sea;x
 1928;62;234;252;Western Alands sea;x
 1929;62;210;252;Western Norwegian Sea;x
-1930;237;154;79;�land;x
+1930;237;154;79;Aled;x
 1931;130;60;50;East Frisia;x
 1932;49;150;248;Gulf of Satalia;x
 1933;50;0;232;Bari;x
