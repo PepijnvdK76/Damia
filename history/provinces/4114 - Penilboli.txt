@@ -1,6 +1,6 @@
-#Lapland, the far north wastelands.
+#Penilboli
 
-capital = "Jokkmokk"
+capital = "Penilboli"
 culture = khazadur
 religion = catholic
 hre = no

@@ -18,8 +18,8 @@ x;red;green;blue;x;x
 17;130;66;128;Akershus;x
 18;2;68;192;Helsinor;x
 19;130;70;255;�sterbotten;x
-20;2;72;0;Penilboli;x
-21;131;74;64;Shathuzah;x
+20;2;72;0;Birar;x
+21;131;74;64;Kinba;x
 22;3;76;128;Oplandene;x
 23;131;78;192;Bergenshus;x
 24;3;80;255;Stavanger;x
@@ -1774,7 +1774,7 @@ x;red;green;blue;x;x
 1774;71;132;126;Treviso;x
 1775;199;134;173;Holstein;x
 1776;71;136;32;Karelia;x
-1777;199;138;79;Kola;x
+1777;199;138;79;Adsuh;x
 1778;71;140;126;Kasimov;x
 1779;199;142;173;Rub' al Khali;x
 1780;72;144;32;Komi;x
@@ -1982,7 +1982,7 @@ x;red;green;blue;x;x
 1982;99;0;248;Blekinge;x
 1983;100;0;232;Lolland;x
 1984;101;0;236;Nordjylland;x
-1985;102;240;0;N�rke;x
+1985;102;240;0;Azinbhizd;x
 1986;103;0;244;New Caledonia;x
 1987;104;0;248;Society Islands;x
 1988;105;0;232;Rapa Nui;x
@@ -4111,7 +4111,7 @@ x;red;green;blue;x;x
 4111;119;212;150;Saintonge;x
 4112;157;124;213;Aurilac;x
 4113;103;160;108;Uleaborg;x
-4114;145;85;134;Lule�;x
+4114;145;85;134;Penilboli;x
 4115;156;39;189;Mazyr;x
 4116;119;162;166;Belyov;x
 4117;205;163;151;Bezhetsk;x

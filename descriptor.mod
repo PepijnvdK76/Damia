@@ -1,4 +1,5 @@
 version="2.5"
+replace_path="history/provinces"
 tags={
 	"Map"
 	"Alternative History"

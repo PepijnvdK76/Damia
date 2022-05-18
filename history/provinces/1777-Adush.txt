@@ -1,8 +1,8 @@
-#Kola
+#Adush
 
 owner = PRL
 controller = PRL
-capital = "Kola"
+capital = "Adush"
 culture = khazadur
 religion = catholic
 hre = no
