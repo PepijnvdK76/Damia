@@ -1,5 +1,6 @@
 version="2.5"
 replace_path="history/provinces"
+replace_path="common/tradenodes"
 tags={
 	"Map"
 	"Alternative History"
