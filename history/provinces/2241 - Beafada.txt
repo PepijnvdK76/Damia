@@ -1,3 +1,6 @@
+owner = GRY
+controller = GRY
+add_core = GRY
 culture = senegambian 
 religion = shamanism #Fetishism
 capital = "Beafada"
@@ -13,5 +16,4 @@ native_hostileness = 9
 
 discovered_by = sub_saharan
 
-1460.1.1 = { discovered_by = POR } # Frenão do Pó
 

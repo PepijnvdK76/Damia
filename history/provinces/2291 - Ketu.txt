@@ -1,8 +1,8 @@
 # No previous file for Ketu
 
-owner = OYO
-controller = OYO
-add_core = OYO
+owner = WIT
+controller = WIT
+add_core = WIT
 is_city = yes
 culture = yorumba 
 religion = shamanism #Fetishism

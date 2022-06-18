@@ -1,8 +1,8 @@
 
 
-owner = BON
-controller = BON
-add_core = BON
+owner = GRY
+controller = GRY
+add_core = GRY
 is_city = yes
 culture = aka 
 religion = shamanism #Fetishism
@@ -17,9 +17,3 @@ base_manpower = 1
 
 discovered_by = sub_saharan
 
-
-1735.1.1 = {
-	owner = ASH
-	controller = ASH
-	add_core = ASH 
-} #Ashanti conquest

@@ -1,5 +1,7 @@
 #1165 - Gabon
-
+owner = GRY
+controller = GRY
+add_core = GRY
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Gabon"
@@ -18,6 +20,4 @@ discovered_by = KON
 discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
-
-1472.1.1 = { discovered_by = POR } # Frenão do Pó, add trade post
 

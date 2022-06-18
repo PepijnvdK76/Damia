@@ -1,8 +1,8 @@
 # No previous file for Moshi
 
-owner = OYO
-controller = OYO
-add_core = OYO
+owner = GRY
+controller = GRY
+add_core = GRY
 is_city = yes
 culture = yorumba 
 religion = shamanism #Fetishism

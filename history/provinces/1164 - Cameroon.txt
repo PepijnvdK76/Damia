@@ -1,5 +1,8 @@
 #1164 - Cameroon
 
+owner = GRY
+controller = GRY
+add_core = GRY
 culture = sawabantu
 religion = shamanism #Fetishism
 capital = "Cameroon"
@@ -19,5 +22,4 @@ discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
-1472.1.1 = { discovered_by = POR } # Frenão do Pó
-1804.1.1 = { discovered_by = SOK }
+

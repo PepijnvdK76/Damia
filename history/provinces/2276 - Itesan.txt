@@ -1,8 +1,8 @@
 # 2276 - Itesan
 
-owner = AIR
-controller = AIR
-add_core = AIR
+owner = GRY
+controller = GRY
+add_core = GRY
 is_city = yes
 culture = tuareg 
 religion = sunni

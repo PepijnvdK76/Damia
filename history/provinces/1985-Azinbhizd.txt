@@ -3,7 +3,7 @@
 add_core = PRL
 owner = PRL
 controller = PRL
-culture = khadazur
+culture = khazadur
 religion = catholic
 hre = no
 base_tax = 2 

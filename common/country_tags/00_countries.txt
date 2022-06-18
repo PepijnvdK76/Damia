@@ -3,6 +3,10 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
+GRY = "countries/Graymouth.txt"
+NIS = "countries/Nishi.txt"
+WIT = "countries/Whitham.txt"
+
 #Scandinavia
 SWE	= "countries/Sweden.txt"
 DAN	= "countries/Denmark.txt"
@@ -400,7 +404,6 @@ ZIM = "countries/Mutapa.txt"
 ADA = "countries/Adal.txt"
 HAU = "countries/Hausa.txt"
 KBO = "countries/KanemBornu.txt"
-LOA = "countries/Loango.txt"
 OYO = "countries/Oyo.txt"
 SOF = "countries/Sofala.txt"
 SOK = "countries/Sokoto.txt"

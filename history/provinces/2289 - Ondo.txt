@@ -1,8 +1,8 @@
 # No previous file for Ondo
 
-owner = BEN
-controller = BEN
-add_core = BEN
+owner = GRY
+controller = GRY
+add_core = GRY
 is_city = yes
 culture = yorumba 
 religion = shamanism #Fetishism
@@ -20,9 +20,3 @@ base_manpower = 1
 
 discovered_by = sub_saharan
 
-
-1806.1.1 = {	
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire

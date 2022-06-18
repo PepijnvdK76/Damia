@@ -1,9 +1,8 @@
 # No previous file for Tenkodogo
 
-owner = WGD
-controller = WGD
-add_core = WGD
-add_core = TEN
+owner = GRY
+controller = GRY
+add_core = GRY
 is_city = yes
 culture = mossi 
 religion = shamanism #Fetishism

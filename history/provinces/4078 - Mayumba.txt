@@ -1,6 +1,6 @@
-owner = LOA
-controller = LOA
-add_core = LOA
+owner = GRY
+controller = GRY
+add_core = GRY
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Mayumba"
@@ -13,4 +13,3 @@ is_city = yes
 discovered_by = central_african
 discovered_by = sub_saharan
 
-1481.1.1 = { discovered_by = POR } # Bartolomeu Dias

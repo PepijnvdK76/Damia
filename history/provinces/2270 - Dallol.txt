@@ -1,8 +1,8 @@
 # No previous file for Dallol
 
-owner = SON
-controller = SON
-add_core = SON
+owner = GRY
+controller = GRY
+add_core = GRY
 is_city = yes
 culture = songhai 
 religion = shamanism #Fetishism

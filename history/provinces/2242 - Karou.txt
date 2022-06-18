@@ -1,5 +1,8 @@
 # No previous file for Karou
 
+owner = GRY
+controller = GRY
+add_core = GRY
 culture = dyola
 religion = shamanism #Fetishism
 capital = "Karou"
@@ -16,5 +19,5 @@ base_manpower = 1
 
 discovered_by = sub_saharan
 
-1464.1.1 = { discovered_by = POR } 
+
 

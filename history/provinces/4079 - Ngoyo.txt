@@ -1,7 +1,6 @@
-owner = KON
-controller = KON
-add_core = KON
-add_core = SYO
+owner = NIS
+controller = NIS
+add_core = NIS
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Ngoyo"
