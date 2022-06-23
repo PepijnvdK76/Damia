@@ -18,5 +18,5 @@ base_manpower = 1
 
 
  
-discovered_by = sub_saharan
+discovered_by = western
 

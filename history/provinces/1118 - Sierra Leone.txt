@@ -1,8 +1,8 @@
 #1118 - Sierra Leone
 
-owner = GRY
-controller = GRY
-add_core = GRY
+owner = ZHB
+controller = ZHB
+add_core = ZHB
 culture = dyola
 religion = shamanism #Fetishism
 capital = "Sherbro"
@@ -16,6 +16,6 @@ native_ferocity = 4
 native_hostileness = 9 
 
 
-
+discovered_by = western
 discovered_by = sub_saharan
 

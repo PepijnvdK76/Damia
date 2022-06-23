@@ -37,7 +37,7 @@ europe_superregion = { #Western Europe
 	british_isles_region
 	south_german_region
 	north_german_region
-	scandinavia_region
+	ithum_isles_region
 	low_countries_region
 	doggerland_region
 }

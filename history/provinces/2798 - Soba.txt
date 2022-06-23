@@ -1,8 +1,8 @@
 #2798 - Soba
 
-owner = GRY
-controller = GRY
-add_core = GRY
+owner = ZHB
+controller = ZHB
+add_core = ZHB
 culture = nubian
 religion = coptic
 capital = "Soba"

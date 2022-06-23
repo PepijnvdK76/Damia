@@ -1,0 +1,62 @@
+military_missions = { #Series name is displayed over the slot?
+	slot = 2 #ie, second upper left column
+	generic = no #if a mission without generic = yes wants this slot then it overrides this.
+	ai = yes #Can exist under the series itself or within individual missions.
+	potential = {
+		OR = {
+			tag = GRY
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes #These are triggers for the entire series
+	
+	#missions
+	#1st tier: (they appear in the order scripted here in the interface, all missions within one "series" has an arrow going down to the next one scripted)
+	build_army_mission = { #Localized as reclaim_maine_title and reclaim_maine_desc
+		icon = mission_cannons_firing
+		required_missions = {  } #None
+		trigger = {
+			army_size_percentage = 1 #What you need to complete the mission, displayed for mission tooltip
+		}
+		effect = { #This is what you get after you finished your mission.
+			lower_niger_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	#2nd tier: (second because it is the second mission to be listed)
+	expand_country_mission = {
+		icon = mission_conquer_50_development
+		required_missions = { build_army_mission }
+		
+		provinces_to_highlight = {
+			area = lower_niger_area
+			NOT = { owned_by = ROOT }
+		}
+		
+		trigger = {
+			lower_niger_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}		
+		effect = {
+			capital_scope = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+				area = {
+					limit = { owned_by = ROOT }
+					add_province_modifier = {
+						name = "growth_of_capital"
+						duration = 9125 #25 years
+					}
+				}
+			}
+		}
+	}
+}

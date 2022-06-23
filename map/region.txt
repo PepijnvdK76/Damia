@@ -5,7 +5,7 @@ random_new_world_region = {
 }
 
 ########################################
-# EUROPE                               #
+# Calandic                              #
 ########################################
 
 france_region = {
@@ -30,7 +30,7 @@ france_region = {
 	}
 }
 
-scandinavia_region = {
+ithum_isles_region = {
 	areas = {
 		svealand_area
 		norrland_area
