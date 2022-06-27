@@ -7,6 +7,9 @@ NAT = "countries/Natives.txt"
 GRY = "countries/Graymouth.txt"
 ZHB = "countries/Zookhaben.txt"
 WIT = "countries/Whitham.txt"
+MET = "countries/Methe.txt"
+DRA = "countries/Dragonmond.txt"
+4ST = "countries/Astas.txt"
 
 
 NIS = "countries/Nishi.txt"
@@ -255,7 +258,6 @@ DSH = "countries/Standhazen.txt"
 
 #Russia 
 ARM	= "countries/Armenia.txt"
-AST	= "countries/Astrakhan.txt"
 CRI	= "countries/Crimea.txt"
 GEO	= "countries/Georgia.txt"
 KAZ	= "countries/Kazan.txt"
