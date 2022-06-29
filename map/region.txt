@@ -5,8 +5,51 @@ random_new_world_region = {
 }
 
 ########################################
-# Calandic                              #
+# Calandic                             #
 ########################################
+
+astas_region = {
+	areas = {
+		atacora_oueme_area
+		lower_volta_area
+		futa_jallon_area
+		west_africa_coast_area
+		manding_area
+		benin_area
+		guinea_coast_area
+		lower_niger_area
+		massina_area
+		gulf_of_guinea_area
+		upper_nubia_area
+		zazzau_area
+		south_atlantic_islands_area
+		dendi_area
+		coastal_kongo
+		adamawa_plateau_area
+		katsina_area
+		hausa_area
+	}
+}
+
+ithum_isles_region = {
+	areas = {
+		svealand_area
+		norrland_area
+		ithur_bay_area
+		skaneland_area
+		jutland_area
+		denmark_area
+		finland_area
+		northern_norway
+		eastern_norway
+		western_norway
+		bothnia_area
+		subarctic_islands_area
+		laponia_area
+		vastra_gotaland_area
+		ostra_svealand_area
+	}
+}
 
 france_region = {
 	areas = {
@@ -27,26 +70,6 @@ france_region = {
 		pyrenees_area
 		poitou_area
 		orleans_area
-	}
-}
-
-ithum_isles_region = {
-	areas = {
-		svealand_area
-		norrland_area
-		gotaland_area
-		skaneland_area
-		jutland_area
-		denmark_area
-		finland_area
-		northern_norway
-		eastern_norway
-		western_norway
-		bothnia_area
-		subarctic_islands_area
-		laponia_area
-		vastra_gotaland_area
-		ostra_svealand_area
 	}
 }
 
@@ -437,18 +460,10 @@ arabia_region = {
 }
 
 niger_region = {
-	areas = {
-		adamawa_plateau_area
-		lower_niger_area
-		hausa_area
-		katsina_area
-		zazzau_area
+	areas = {	
 		upper_volta_area
-		atacora_oueme_area
-		lower_volta_area
+		
 		kong_area
-		massina_area
-		manding_area
 		tekrur_area
 		jenne_area
 	}
@@ -460,12 +475,8 @@ niger_region = {
 
 guinea_region = {
 	areas = {
-		benin_area
+		
 		cap_verde_area
-		guinea_coast_area
-		gulf_of_guinea_area
-		futa_jallon_area
-		west_africa_coast_area
 		jolof_area
 		sao_tome_area
 	}
@@ -484,7 +495,6 @@ sahel_region = {
 		azbin_area
 		kurdufan_area
 		western_sahara_area
-		dendi_area
 		baghena_area
 		niger_bend_area
 		east_azbin_area
@@ -507,7 +517,6 @@ horn_of_africa_region = {
 		majarteen_area
 		mogadishu_area
 		red_sea_coast_area
-		upper_nubia_area
 		sennar_area
 		dongola_area
 		hadiya_area
@@ -573,7 +582,6 @@ central_africa_region = {
 
 kongo_region = {
 	areas = {
-		coastal_kongo
 		kongo_area
 		angola_namibia_area
 		matamba_area
@@ -971,7 +979,6 @@ la_plata_region = {
 		southern_pampas_area
 		buenos_aires_area
 		banda_oriental_area
-		south_atlantic_islands_area
 		southern_chile_area
 		central_chile_area
 		misiones_area

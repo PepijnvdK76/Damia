@@ -1,8 +1,9 @@
 #1117 - Futa Jallon
 
-owner = GRY
-controller = GRY
-culture = fulani
+owner = MET
+controller = MET
+add_core = MET
+culture = lower_anor
 is_city = yes
 base_manpower = 3
 religion = shamanism #Fetishism
@@ -11,9 +12,9 @@ trade_goods = ivory
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = GRY
 
 
+discovered_by = western
 discovered_by = sub_saharan
 
 

@@ -1,9 +1,9 @@
 #1126 - Ivory Coast
 
-owner = GRY
-controller = GRY
-add_core = GRY
-culture = aka
+owner = MET
+controller = MET
+add_core = MET
+culture = lower_anor
 religion = shamanism #Fetishism
 capital = "Assinie"
 trade_goods = unknown
@@ -22,6 +22,7 @@ discovered_by = HAU
 discovered_by = KBO
 discovered_by = OYO
 discovered_by = BEN
+discovered_by = western
 
 
 
