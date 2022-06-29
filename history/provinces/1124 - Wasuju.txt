@@ -1,9 +1,8 @@
 #1124 - Wasuju
 
-owner = MET
-controller = MET
-add_core = MET
-culture = lower_anor
+owner = GRY
+controller = GRY
+culture = mali
 is_city = yes
 base_manpower = 8
 religion = sunni #Representing the Malian Aristocracy, rural population likely still adhering to traditional beliefs.
@@ -12,7 +11,7 @@ trade_goods = grain
 hre = no
 base_tax = 4 
 base_production = 4
-discovered_by = western
+add_core = GRY
 discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1 

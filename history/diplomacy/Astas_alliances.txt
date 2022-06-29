@@ -1,7 +1,0 @@
-#Graymouth
-vassal = {
-	first = GRY
-	second = DRA
-	start_date = 1444.1.1
-	end_date = 1465.1.1
-}

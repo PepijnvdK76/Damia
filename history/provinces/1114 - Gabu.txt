@@ -1,9 +1,8 @@
 #1114 - Gabu
 
-owner = MET
-controller = MET
-add_core = MET
-culture = lower_anor
+owner = GRY
+controller = GRY
+culture = senegambian
 is_city = yes
 base_manpower = 2
 religion = shamanism #Fetishism
@@ -12,7 +11,7 @@ trade_goods = ivory
 hre = no
 base_tax = 3 
 base_production = 3
-discovered_by = western
+add_core = GRY 
 discovered_by = sub_saharan
 add_local_autonomy = 50
 extra_cost = 8

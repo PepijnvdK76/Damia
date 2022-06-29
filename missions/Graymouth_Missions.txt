@@ -19,7 +19,7 @@ military_missions = { #Series name is displayed over the slot?
 			army_size_percentage = 1 #What you need to complete the mission, displayed for mission tooltip
 		}
 		effect = { #This is what you get after you finished your mission.
-			atacora_oueme_area = {
+			lower_niger_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -34,12 +34,12 @@ military_missions = { #Series name is displayed over the slot?
 		required_missions = { build_army_mission }
 		
 		provinces_to_highlight = {
-			area = atacora_oueme_area
+			area = lower_niger_area
 			NOT = { owned_by = ROOT }
 		}
 		
 		trigger = {
-			atacora_oueme_area = {
+			lower_niger_area = {
 				type = all
 				owned_by = ROOT
 			}
