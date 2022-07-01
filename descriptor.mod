@@ -1,6 +1,8 @@
 version="2.5"
 replace_path="history/provinces"
 replace_path="common/tradenodes"
+replace_path="common/tradenodes"
+replace_path="history/countries/AST - Astrakhan.txt"
 tags={
 	"Map"
 	"Alternative History"
