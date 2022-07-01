@@ -1,16 +1,4 @@
 ﻿l_english:
- ###############################
- #Ithum Isles
- ###############################
  ithum_isles_region:0 "Ithum Isles"
  ithum_isles_region_name:0 "Ithum Isles"
  ithum_isles_region_adj:0 "Ithumian"
- ithur_bay_area:0 "Ithur bay"
- ithur_bay_area_name:0 "Ithur bay"
- ithur_bay_area_adj:0 "Ithurian"
- ###############################
- #Astas
- ###############################
- astas_region:0 "Astas"
- astas_region_name:0 "Astas"
- astas_region_adj:0 "Astasian"

@@ -37,18 +37,10 @@ europe_superregion = { #Western Europe
 	british_isles_region
 	south_german_region
 	north_german_region
+	ithum_isles_region
 	low_countries_region
 	doggerland_region
 }
-southern_calandic_superregion = {
-	restrict_charter		# harder to get TC here.
-	
-	ithum_isles_region
-	astas_region
-
-	
-}
-
 
 eastern_europe_superregion = {
 	restrict_charter		# harder to get TC here.
