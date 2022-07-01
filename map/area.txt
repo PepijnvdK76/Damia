@@ -281,16 +281,15 @@ bahama_channel_area = {
 ########################################
 # Perowland				 	     	   #
 ########################################
+ithur_bay_area = { #4 Östra Götaland
+	1 2 3 4 5  
+}
 ostra_svealand_area = { #4
 	982 1930 18 
 }
 
 jutland_area = { #4
-	 2 9 1985 1777
-}
-
-gotaland_area = { #4 Östra Götaland
-	10 4151 1 25 
+	25 9 1985 1777
 }
 
 northern_norway = { #3
@@ -303,6 +302,9 @@ laponia_area = { #3
 
 norrland_area = { #4
 	1104 11 4378 4113
+}
+svealand_area = { #3
+	4151 8 10
 }
 
 ########################################
@@ -319,7 +321,7 @@ west_africa_coast_area = { #5
     1122 2258 2257 2242 1119
 }
 guinea_coast_area = { #5
-    1118  2798 1164
+    2798 1164
 }
 manding_area = { #4
     1121 1111 1114 1117 1126
@@ -328,10 +330,10 @@ futa_jallon_area = { #5
     1141 2253 1139 2470 4862
 }
 benin_area = { #4
-	1147 2289  2294 1148
+	1147 2289 1148 1999
 }
 lower_niger_area = { #5
-     1145  1152 1153
+    1145  1152 1153 1998
 }
 cap_verde_area = { #2 
     1096 
@@ -339,14 +341,32 @@ cap_verde_area = { #2
 massina_area = { #5
    2249 1124 1143 2267 2248
 }
-gulf_of_guinea_area = { #4
-   1164 1165 2241 1225
+gulf_of_guinea_area = { #5
+   1164 1165 2241 1225 2466
 }
 upper_nubia_area = { #5
-	1222 1226 2797 2798
+	1222 2797 2798
 }
 zazzau_area = { #4
 	1138 348 1140 2295
+}
+south_atlantic_islands_area = { #2
+	1095 2025 1248 1118 2293
+}
+dendi_area = { #4
+    2278 2292 2270 2276
+}
+coastal_kongo = { #4
+	4078 2294 1151 1163
+}
+adamawa_plateau_area = { #4
+    1161 1162 1249  2239
+}
+katsina_area = { #4 
+	1149 2279 1154 1150 1155 2281
+}
+hausa_area = { #3
+    2280 2283 2285
 }
 
 
@@ -1497,7 +1517,7 @@ tafilalt_area = { #3
 }
 
 sus_area = { #4
-	2464 2466 4568
+	2464 4568
 }
 
 southern_morocco_area = { #3
@@ -1744,7 +1764,7 @@ mascarenes_area = { #3
 }
 
 indian_ocean_islands_area = { #5
-	574 1101 1248 1998 1999
+	574 1101
 }
 
 papua_area = { #5 (Papuan Peninsula)
@@ -1848,7 +1868,7 @@ western_sahara_area = { #5
 }
 
 jolof_area = { #4
-	1112 1113 1116 2239
+	1112 1113 1116 
 }
 
 tekrur_area = { #4
@@ -1856,7 +1876,7 @@ tekrur_area = { #4
 }
 
 baghena_area = { #4
-    2243 2245 2246 2247
+    2243 2245 2247
 }
 
 jenne_area = { #4
@@ -1871,32 +1891,18 @@ upper_volta_area = { #5
     1135 1136 1137 2265 2266
 }
 
-hausa_area = { #3
-    1155 2280 2281
-}
-
-katsina_area = { #3
-	1149 2279
-}
 
 bornu_area = { #5
-    1157 1160 2282 2283 2284
+    1157 1160 2282 2284
 }
 
 kanem_area = { #5
     1158 1159 2286 2287 2288
 }
 
-adamawa_plateau_area = { #4
-    1161 1162 1249 2285
-}
-
-dendi_area = { #4
-    1142 2268 2269 2270
-}
 
 azbin_area = { #5
-    1156 2272 2273 2274 2276
+    1156 2272 2273 2274
 }
 
 east_azbin_area = { #3
@@ -1909,18 +1915,8 @@ sao_tome_area = { #2
 
 
 
-
-
-south_atlantic_islands_area = { #2
-	1095 2025
-}
-
 matamba_area = { #3
 	2948 4082 4084
-}
-
-coastal_kongo = { #5
-	1166 1168 4078 4079 4080
 }
 
 kongo_area = { #5
