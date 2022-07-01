@@ -12,6 +12,7 @@ base_manpower = 2
 capital = "Kuma"
 is_city = yes
 add_core = GOL
+add_core = AST
 
 
 
@@ -22,3 +23,22 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
+1459.1.1 = { 
+	owner = AST
+	controller = AST
+	remove_core = GOL 
+} # Independence of Astrakhan
+1556.6.2 = {
+	owner = NOG
+	controller = NOG
+	add_core = NOG
+	remove_core = AST 
+} # Nogais migrate to the area after Russian conquest of Astrakhan
+1634.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	remove_core = NOG
+	culture = mongol
+	religion = buddhism
+} # Nogais driven out by Buddhist Kalmuks, Russian protectorate

@@ -1,0 +1,22 @@
+#Ithur
+
+owner = PRL
+controller = PRL
+add_core = PRL
+culture = khazadur
+religion = catholic
+hre = no
+base_tax = 8 
+base_production = 9
+trade_goods = wool
+base_manpower = 4
+ # Visborg Castle
+capital = "Ithur"
+is_city = yes
+fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 3
