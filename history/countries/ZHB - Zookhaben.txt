@@ -3,5 +3,5 @@ add_government_reform = plutocracy_reform
 government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = khazadur
+primary_culture = lower_anor
 capital = 2798 # Zookhaben

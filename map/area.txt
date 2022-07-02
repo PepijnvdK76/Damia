@@ -1893,7 +1893,7 @@ upper_volta_area = { #5
 
 
 bornu_area = { #5
-    1157 1160 2282 2284
+    1157 1160  2284
 }
 
 kanem_area = { #5

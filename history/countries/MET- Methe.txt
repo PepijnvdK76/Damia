@@ -3,5 +3,5 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = doggian
-capital = 4946 #Flevum
+primary_culture = lower_anor
+capital = 1121 # Dawnwall

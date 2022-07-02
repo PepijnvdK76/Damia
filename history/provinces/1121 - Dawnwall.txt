@@ -1,0 +1,21 @@
+#1121 - Dawnwall
+
+owner = MET
+controller = MET
+add_core = MET
+culture = lower_anor
+is_city = yes
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+religion = 
+capital = "Dawnwall"
+trade_goods = gold
+hre = no
+
+
+
+
+
+
+discovered_by = western

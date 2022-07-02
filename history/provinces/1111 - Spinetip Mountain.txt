@@ -1,0 +1,15 @@
+#1111 - Spinetip Mountain
+
+owner = GRY
+controller = GRY
+add_core = GRY
+culture = upper_anor
+religion = sunni
+capital = "Castor"
+trade_goods = iron
+hre = no
+base_tax = 1 
+base_production = 2
+base_manpower = 1
+fort_15th = yes
+

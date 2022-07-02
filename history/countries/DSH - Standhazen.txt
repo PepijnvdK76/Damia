@@ -1,7 +1,0 @@
-government = republic
-add_government_reform = peasants_republic
-government_rank = 1
-primary_culture = doggian
-religion = catholic
-technology_group = western
-capital = 4943 # Vinkenisse

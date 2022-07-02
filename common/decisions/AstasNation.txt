@@ -1,0 +1,112 @@
+country_decisions = {
+
+	astas_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_astas_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			culture_group = zookaspine
+			OR = {
+				NOT = { exists = 4ST }
+				ai = no
+			}
+			NOT = { tag = 4ST }
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 2257 # Gloomwel
+				province_id = 1121 # Dawnwall
+				province_id = 2798 # Zookhaben
+				province_id = 1147 # 
+				province_id = 1153 # Dragonmond Citadel
+				province_id = 2283 # 
+				AND = {
+					region = astas_region
+					ROOT = {
+						NOT = {
+							num_of_owned_provinces_with = {
+								value = 20
+								region = astas_region
+								is_core = root
+							}
+						}
+						owns_core_province = 2257
+						owns_core_province = 1121
+						owns_core_province = 2798
+						owns_core_province = 1147
+						owns_core_province = 1153
+						owns_core_province = 2283
+					}
+				}
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			adm_tech = 3
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			NOT = { exists = 4ST }
+			owns_core_province = 2257
+			owns_core_province = 1121
+			owns_core_province = 2798
+			owns_core_province = 1147
+			owns_core_province = 1153
+			owns_core_province = 2283
+			1147 = {
+				is_state = yes
+			}
+			num_of_owned_provinces_with = {
+				value = 20
+				region = astas_region
+				is_core = root
+			}
+		}
+	 	effect = {
+			change_tag = 4ST
+			swap_non_generic_missions = yes
+			low_countries_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { province_id = 1931 }
+				}
+				add_permanent_claim = 4ST
+			}
+			if = {
+				limit = {
+					NOT = {
+						government_rank = 2
+					}
+				}
+				4ST = { set_government_rank = 2 }
+			}
+			set_country_flag = formed_netherlands_flag
+			add_prestige = 25
+			if = {
+				limit = {
+					has_custom_ideas = no
+					NOT = { has_idea_group = AST_ideas }
+				}
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+		}
+		ai_importance = 400
+	}
+	
+}

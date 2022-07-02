@@ -1,21 +1,16 @@
 #1143 - Borgu
 
-owner = GRY
-controller = GRY
-add_core = GRY
+owner = MET
+controller = MET
+add_core = MET
+culture = lower_anor
 is_city = yes
-culture = dagomba 
-religion = shamanism #Fetishism
-capital = "Bussa"
+capital = ""
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
 trade_goods = grain
 
-native_size = 40
-native_ferocity = 4
-native_hostileness = 9
+discovered_by = western
 discovered_by = sub_saharan
-
-
