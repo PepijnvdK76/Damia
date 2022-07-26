@@ -4,7 +4,7 @@ owner = GRY
 controller = GRY
 add_core = GRY
 culture = upper_anor
-religion = sunni
+
 capital = "Castor"
 trade_goods = iron
 hre = no

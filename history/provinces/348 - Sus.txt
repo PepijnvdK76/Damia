@@ -2,9 +2,8 @@
 
 owner = GRY
 controller = GRY
-culture = berber
-religion = sunni
-capital = "Taroudant"
+culture = upper_anor
+capital = ""
 trade_goods = sugar
 hre = no
 base_tax = 5 

@@ -2,9 +2,9 @@
 
 owner = GRY
 controller = GRY
-culture = berber
-religion = sunni
-capital = "Mogador"
+culture = upper_anor
+
+capital = ""
 trade_goods = grain
 hre = no
 base_tax = 2 
@@ -13,10 +13,6 @@ base_manpower = 1
 is_city = yes
 add_core = GRY
 
-
-
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = western
-discovered_by = eastern
+
 
