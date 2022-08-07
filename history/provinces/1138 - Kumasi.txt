@@ -1,6 +1,6 @@
-#1138 - Kumasi
+#1138 - 
 
-culture = upper_anor
+culture = skanger
 base_manpower = 1
 
 capital = ""

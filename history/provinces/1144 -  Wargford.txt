@@ -1,19 +1,20 @@
-#1144 - Oyo
+#1144 -  Wargford
 
 owner = WIT
 controller = WIT
 add_core = WIT
-culture = yorumba 
-religion = shamanism #Fetishism
-capital = "Oyo"
+culture = withams
+
+is_city = yes
+fort_15th = yes
+
+capital = " Wargford"
 is_city = yes
 base_manpower = 1
 trade_goods = grain
 hre = no
 base_tax = 3 
 base_production = 3
-
-
 
 discovered_by = sub_saharan
 discovered_by = western

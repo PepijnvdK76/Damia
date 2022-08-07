@@ -3,9 +3,9 @@
 owner = WIT
 controller = WIT
 add_core = WIT
-culture = yorumba
-religion = shamanism #Fetishism
-capital = "Ife Ile"
+culture = withams
+
+capital = ""
 is_city = yes
 base_manpower = 2
 trade_goods = glass #Ife Glass Beads

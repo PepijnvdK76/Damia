@@ -10,7 +10,7 @@ western_mediterrenean_area = {
 eastern_mediterrenean_area = {
 	1308 1309 1310 1311 1312 1313 1314 1315 1316 1317 1319 1320 1932
 }
-F
+
 black_sea_area = {
 	1321 1322 1323 1324
 }
@@ -314,8 +314,11 @@ svealand_area = { #3
 lower_volta_area = { #6
     2254 2255 2256 1125 2252
 }
+northern_morocco_area = { #5
+	334 4563 2238 2291
+}
 atacora_oueme_area = {
-	2291 2238 2290 1144 1146
+	 2290 1144 1146 342
 }
 west_africa_coast_area = { #5
     1122 2258 2257 2242 1119
@@ -345,7 +348,7 @@ gulf_of_guinea_area = { #5
    1164 1165 2241 1225 2466
 }
 upper_nubia_area = { #5
-	1222 2797 2798
+	1222 2797 2798 2464
 }
 zazzau_area = { #4
 	1138 348 1140 2295
@@ -1517,7 +1520,7 @@ tafilalt_area = { #3
 }
 
 sus_area = { #4
-	2464 4568
+	 4568
 }
 
 southern_morocco_area = { #3
@@ -1525,16 +1528,14 @@ southern_morocco_area = { #3
 }
 
 western_morocco_area = { #3
-	342 345 2469 4564
+	345 2469 4564
 }
 
 marrekesh_area = { #3
 	343 344 2467 2468
 }
 
-northern_morocco_area = { #5
-	334 335 1751 4563 4561
-}
+
 
 ########################################
 # East Africa					       #

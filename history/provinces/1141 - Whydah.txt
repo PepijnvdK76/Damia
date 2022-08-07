@@ -3,20 +3,15 @@
 owner = GRY
 controller = GRY
 add_core = GRY
-culture = fon
-religion = shamanism #Fetishism
-capital = "Whydah"
-trade_goods = unknown
+culture = upper_anor
+
+capital = ""
+trade_goods = cloth
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 50
-native_ferocity = 4
-native_hostileness = 9
+base_tax = 3
+base_production = 4
+base_manpower = 2
 
-
-
-discovered_by = sub_saharan
+discovered_by = western
 
 

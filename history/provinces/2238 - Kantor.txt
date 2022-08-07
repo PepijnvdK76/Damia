@@ -4,9 +4,9 @@ owner = WIT
 controller = WIT
 add_core = WIT
 is_city = yes
-culture = senegambian 
-religion = shamanism #Fetishism
-capital = "Sutuco"
+culture = withams 
+
+capital = ""
 trade_goods = ivory
 hre = no
 base_tax = 1 
