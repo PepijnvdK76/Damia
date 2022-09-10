@@ -2,9 +2,8 @@ owner = GRY
 controller = GRY
 add_core = GRY
 is_city = yes
-culture = aka 
-religion = shamanism #Fetishism
-capital = "Bono Manso"
+culture = skanger 
+capital = ""
 trade_goods = tropical_wood
 hre = no
 base_tax = 3 
@@ -13,11 +12,5 @@ base_manpower = 1
 
 
 
-discovered_by = sub_saharan
+discovered_by = western
 
-
-1735.1.1 = {
-	owner = ASH
-	controller = ASH
-	add_core = ASH
-} #Ashanti conquest

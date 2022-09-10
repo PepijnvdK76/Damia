@@ -4,11 +4,11 @@ add_core = GRY
 culture = upper_anor
 
 capital = ""
-trade_goods = unknown
+trade_goods = grain
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+base_tax = 3 
+base_production = 3
+base_manpower = 2
 
 
 

@@ -1,5 +1,5 @@
 #Graymouth
-vassal = {
+march = {
 	first = GRY
 	second = DRA
 	start_date = 1444.1.1

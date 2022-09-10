@@ -1,16 +1,15 @@
 #Birar
 
-owner = PRL
-controller = PRL
-add_core = PRL
-culture = khazadur
-religion = catholic
+owner = IST		
+controller = IST
+add_core = IST
+culture = istokaar
+capital = ""
 hre = no
 base_tax = 3
 base_production = 3
 trade_goods = fish
 base_manpower = 2
-capital = "Birar"
 is_city = yes
 discovered_by = eastern
 discovered_by = western

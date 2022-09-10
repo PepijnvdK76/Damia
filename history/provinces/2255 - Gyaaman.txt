@@ -4,9 +4,8 @@ owner = GRY
 controller = GRY
 add_core = GRY
 is_city = yes
-culture = aka 
-religion = shamanism #Fetishism
-capital = "Amanvi"
+culture = skanger 
+capital = ""
 trade_goods = coffee #Kola nuts
 hre = no
 base_tax = 2 
@@ -15,5 +14,5 @@ base_manpower = 1
 
 
 
-discovered_by = sub_saharan
+discovered_by = western
 

@@ -1,0 +1,19 @@
+#1147 - Denelen
+
+owner = DEL
+controller = DEL
+add_core = DEL
+culture = lower_anor
+
+is_city = yes
+fort_15th = yes
+
+capital = "Denelen"
+base_manpower = 9
+trade_goods = ivory 
+hre = no
+base_tax = 8
+base_production = 9
+
+discovered_by = western
+

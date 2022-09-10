@@ -2,6 +2,5 @@ government = theocracy
 add_government_reform = monastic_order
 government_rank = 1
 primary_culture = upper_anor
-religion = catholic
 technology_group = western
 capital = 1153 # Dragonmond citadel

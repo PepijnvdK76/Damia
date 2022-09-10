@@ -1,15 +1,14 @@
-#Represents forts in western Ghana, from Axim to Elmina, mostly Elmina
 
 owner = GRY
 controller = GRY
 add_core = GRY
 culture = upper_anor
 capital = ""
-trade_goods = unknown
+trade_goods = naval_supplies
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 1
+base_tax = 8
+base_production = 5
+base_manpower = 7
 discovered_by = western
 extra_cost = 8
 center_of_trade = 1

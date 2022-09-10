@@ -1,17 +1,16 @@
-#4151 - Most of Kemi Lappmark: Enare/Inari, Sodankylä, Kemikyla, Utsjoki, Kittila, Sombio
-
-owner = PRL
-controller = PRL
-add_core = PRL
-culture = khazadur
-religion = catholic
+#4151 
+owner = IST		
+controller = IST
+add_core = IST
+culture = istokaar
+capital = ""
 hre = no
 base_tax = 1 
 base_production = 1
 trade_goods = fur
 base_manpower = 1
 add_local_autonomy = 90
-capital = "Sodankylä" #Uncertain if this existed at that point.
+
 is_city = yes
 discovered_by = eastern
 discovered_by = western

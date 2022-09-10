@@ -1,0 +1,14 @@
+owner = GRY
+controller = GRY
+add_core = GRY
+culture = upper_anor 
+
+capital = ""
+trade_goods = coffee #Kola nuts
+hre = no
+base_tax = 10 
+base_production = 6
+base_manpower = 7
+
+discovered_by = western
+

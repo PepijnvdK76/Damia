@@ -11,7 +11,7 @@ random_new_world_region = {
 astas_region = {
 	areas = {
 		atacora_oueme_area
-		lower_volta_area
+		skang_peninsula_area
 		futa_jallon_area
 		west_africa_coast_area
 		manding_area
@@ -28,6 +28,8 @@ astas_region = {
 		adamawa_plateau_area
 		katsina_area
 		hausa_area
+		northern_morocco_area
+		sus_area
 	}
 }
 
@@ -349,11 +351,11 @@ maghreb_region = {
 		hautes_plaines_area
 		north_saharan_area
 		tafilalt_area
-		sus_area
+		
 		marrekesh_area
 		ouled_nail_area
 		#fez_area
-		northern_morocco_area
+		
 		southern_morocco_area
 		western_morocco_area
 		tripolitania_area

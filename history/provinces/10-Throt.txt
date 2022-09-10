@@ -1,19 +1,18 @@
 #Throt
 
-owner = PRL
-controller = PRL
-culture = khazadur
-religion = catholic
+owner = IST		
+controller = IST
+add_core = IST
+culture = istokaar
+capital = ""
 hre = no
 base_tax = 1 
 base_production = 1
 trade_goods = fur
 base_manpower = 1
-capital = "Throt"
+
 add_local_autonomy = 25
 is_city = yes
-add_core = PRL
-
 
 
 discovered_by = eastern

@@ -1,23 +1,19 @@
 #Penilboli
 
-capital = "Penilboli"
-culture = khazadur
-religion = catholic
+owner = IST		
+controller = IST
+add_core = IST
+culture = istokaar
+capital = ""
 hre = no
 base_tax = 1 
-base_production = 1
-trade_goods = unknown
+base_production = 2
 base_manpower = 1
-native_hostileness = 1
-native_size = 3
-native_ferocity = 2
+
 discovered_by = eastern
 discovered_by = western
-owner = PRL
-controller = PRL
-add_core = PRL
+
 is_city = yes
-add_local_autonomy = 90
 trade_goods = fur
 
 

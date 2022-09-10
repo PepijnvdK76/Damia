@@ -1,22 +1,15 @@
-#1140 - Abomey
 
-owner = GRY #Early kingdom of Allada/Ardra
+owner = GRY 
 controller = GRY
 add_core = GRY
 is_city = yes
-culture = fon
-religion = shamanism #Fetishism
-capital = "Allada"
-trade_goods = slaves
+culture = skanger
+capital = ""
+trade_goods = grain
 hre = no
-base_tax = 1 
-base_production = 1
+base_tax = 2
+base_production = 3
 base_manpower = 1
-native_size = 60
-native_ferocity = 4
-native_hostileness = 9
 
-
-
-discovered_by = sub_saharan
+discovered_by = western
 

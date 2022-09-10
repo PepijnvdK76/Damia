@@ -1,4 +1,4 @@
-#1119 - Grain Coast
+
 
 owner = GRY
 controller = GRY
@@ -6,11 +6,11 @@ add_core = GRY
 culture = upper_anor
 
 capital = ""
-trade_goods = unknown #Malaguetta Pepper dominant in early eras
+trade_goods = fish
 hre = no
-base_tax = 1 
+base_tax = 4
 base_production = 3
-base_manpower = 2
+base_manpower = 3
 
 discovered_by = western
 

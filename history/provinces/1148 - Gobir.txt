@@ -1,13 +1,12 @@
 #1148 - Gobir
 
-owner = GRY
-controller = GRY
-add_core = GRY
+owner = DEL
+controller = DEL
+add_core = DEL
 culture = hausa
 is_city = yes
 base_manpower = 3
-religion = sunni
-capital = "Birnin Lalle"
+capital = ""
 trade_goods = iron
 hre = no
 base_tax = 3 
@@ -15,7 +14,7 @@ base_production = 3
 
 
 
-discovered_by = sub_saharan
+discovered_by = western
 
 
 

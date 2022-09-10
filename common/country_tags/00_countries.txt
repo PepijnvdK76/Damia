@@ -10,8 +10,10 @@ WIT = "countries/Whitham.txt"
 MET = "countries/Methe.txt"
 DRA = "countries/Dragonmond.txt"
 4ST = "countries/Astas.txt"
+DEL = "countries/Denelen.txt"
+GEW = "countries/Gemwel.txt"
 
-
+IST = "countries/Isto.txt"
 NIS = "countries/Nishi.txt"
 #Scandinavia
 SWE	= "countries/Sweden.txt"

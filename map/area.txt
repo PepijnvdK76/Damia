@@ -311,7 +311,7 @@ svealand_area = { #3
 # Astas          			 		   #
 ########################################
 
-lower_volta_area = { #6
+skang_peninsula_area = { #6
     2254 2255 2256 1125 2252
 }
 northern_morocco_area = { #5
@@ -354,23 +354,27 @@ zazzau_area = { #4
 	1138 348 1140 2295
 }
 south_atlantic_islands_area = { #2
-	1095 2025 1248 1118 2293
+	1095 2025 1248 1118 
 }
 dendi_area = { #4
-    2278 2292 2270 2276
+    2278 2292 2270 2276 344 345
 }
 coastal_kongo = { #4
-	4078 2294 1151 1163
+	4078 2294 1151 1163 4568
 }
 adamawa_plateau_area = { #4
-    1161 1162 1249  2239
+    1161 1162 1249  2239 4564 
 }
 katsina_area = { #4 
-	1149 2279 1154 1150 1155 2281
+	1149 2279 1154 1150 1155 2281 335
 }
 hausa_area = { #3
     2280 2283 2285
 }
+sus_area = { #4
+	1088 2293 2469 2468
+}
+
 
 
 
@@ -1519,20 +1523,17 @@ tafilalt_area = { #3
 	346 349 2460
 }
 
-sus_area = { #4
-	 4568
-}
 
 southern_morocco_area = { #3
 	347 1110
 }
 
 western_morocco_area = { #3
-	345 2469 4564
+	  
 }
 
 marrekesh_area = { #3
-	343 344 2467 2468
+	343  2467 
 }
 
 
@@ -1809,7 +1810,7 @@ eastern_australia_area = { #4 (New South Wales)
 }
 
 southern_australia_area = { #4 (Melbourne/Victoria)
-	1087 1088 2734 4861 1089
+	1087  2734 4861 1089
 }
 
 murray_river_area = { #4
