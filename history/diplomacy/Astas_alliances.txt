@@ -1,7 +1,14 @@
-#Graymouth
+#Graymouth - Dragonmond
 march = {
 	first = GRY
 	second = DRA
 	start_date = 1444.1.1
 	end_date = 1465.1.1
+}
+#Graymouth - Isto
+guarantee = {
+	first = GRY
+	second = IST
+	start_date = 1444.1.1
+	end_date = 1560.1.1
 }
