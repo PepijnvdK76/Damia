@@ -717,11 +717,6 @@ vastra_gotaland_area = { #Västra Götaland #4
 	7 16 4163 4164
 }
 
-svealand_area = { #3
-	5 8 4
-}
-
-
 
 
 finland_area = { #5

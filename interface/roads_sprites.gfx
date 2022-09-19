@@ -1,0 +1,93 @@
+spriteTypes  = {
+	### ROADS
+	spriteType = {
+		name = "GFX_early_road"
+		texturefile = "gfx//interface//buildings//early_road.tga"
+		loadType = "INGAME"
+	}
+		spriteType = {
+		name = "GFX_gravel_road"
+		texturefile = "gfx//interface//buildings//gravel_road.tga"
+		loadType = "INGAME"
+	}
+		spriteType = {
+		name = "GFX_royal_road"
+		texturefile = "gfx//interface//buildings//royal_road.tga"
+		loadType = "INGAME"
+	}
+		spriteType = {
+		name = "GFX_macadam_road"
+		texturefile = "gfx//interface//buildings//macadam_road.tga"
+		loadType = "INGAME"
+	}
+	# spriteType = {
+		# name = "GFX_tram"
+		# texturefile = "gfx//interface//buildings//tram.tga"
+		# loadType = "INGAME"
+	# }
+	
+	#banner
+	
+	spriteType = {
+		name = "GFX_banner_right_4"
+		texturefile = "gfx//interface//banner_right_4.dds"
+	}
+	spriteType = {
+		name = "GFX_macro_buildings_category_strip"
+		texturefile = "gfx//interface//macro_buildings_category_strip.dds"
+		noOfFrames = 10
+	}
+	
+
+	### ARCHITECT
+	spriteType = {
+			name = "GFX_advisor_architect"
+			texturefile = "gfx//interface//advisors//architect.dds"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.lua"
+			loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_architect_female"
+			texturefile = "gfx//interface//advisors//architect_female.dds"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.lua"
+			loadType = "INGAME"
+	}
+	### COLONIAL GOVERNOR
+	spriteType = {
+			name = "GFX_advisor_colonialguy"
+			texturefile = "gfx//interface//advisors//colonialguy.dds"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.lua"
+			loadType = "INGAME"
+	}
+	spriteType = {
+			name = "GFX_advisor_colonialguy_female"
+			texturefile = "gfx//interface//advisors//colonialguy_female.dds"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.lua"
+			loadType = "INGAME"
+	}
+	### ARMY TACTICAL
+	spriteType = {
+			name = "GFX_advisor_attritionguy"
+			texturefile = "gfx//interface//advisors//attritionguy.dds"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.lua"
+			loadType = "INGAME"
+	}
+	spriteType = {
+			name = "GFX_advisor_attritionguy_female"
+			texturefile = "gfx//interface//advisors//attritionguy_female.dds"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.lua"
+			loadType = "INGAME"
+	}
+}

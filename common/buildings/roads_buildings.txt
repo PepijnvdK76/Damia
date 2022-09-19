@@ -1,0 +1,126 @@
+#### MODDED BUILDINGS - ROAD
+
+early_road = {
+    cost = 75
+    time = 6
+
+    one_per_country = no
+    allow_in_gold_provinces = yes
+    onmap = no
+	potential = {
+		NOT = { has_global_flag = No_Roads }
+	}
+    modifier = {
+    	province_trade_power_modifier = 0.2
+		local_tax_modifier = 0.15
+		allowed_num_of_buildings = 1
+		local_friendly_movement_speed = 0.25
+		local_hostile_movement_speed = 0.15
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+
+
+gravel_road= {
+    cost = 150
+    time = 8
+	make_obsolete = early_road
+
+    one_per_country = no
+    allow_in_gold_provinces = yes
+    onmap = no
+	potential = {
+		NOT = { has_global_flag = No_Roads }
+	}
+    modifier = {
+    	province_trade_power_modifier = 0.45
+		local_tax_modifier = 0.35
+		allowed_num_of_buildings = 1
+		local_friendly_movement_speed = 0.40
+		local_hostile_movement_speed = 0.30
+		local_development_cost = -0.075
+		local_production_efficiency = 0.10
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+
+royal_road= {
+    cost = 250
+    time = 8
+	make_obsolete = gravel_road
+
+    one_per_country = no
+    allow_in_gold_provinces = yes
+    onmap = no
+	potential = {
+		NOT = { has_global_flag = No_Roads }
+	}
+    modifier = {
+    	province_trade_power_modifier = 0.60
+		local_tax_modifier = 0.50
+		allowed_num_of_buildings = 1
+		local_friendly_movement_speed = 0.60
+		local_hostile_movement_speed = 0.45
+		local_development_cost = -0.10
+		local_production_efficiency = 0.20
+		local_culture_conversion_cost = -0.075
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+
+macadam_road= {
+    cost = 350
+    time = 10
+	make_obsolete = royal_road
+
+    one_per_country = no
+    allow_in_gold_provinces = yes
+    onmap = no
+	potential = {
+		NOT = { has_global_flag = No_Roads }
+	}
+    modifier = {
+    	province_trade_power_modifier = 0.80
+		local_tax_modifier = 0.70
+		allowed_num_of_buildings = 1
+		local_friendly_movement_speed = 0.75
+		local_hostile_movement_speed = 0.60
+		local_development_cost = -0.15
+		local_production_efficiency = 0.4
+		local_culture_conversion_cost = -0.15
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+
+tram = {
+	cost = 500
+	time = 16
+	
+	one_per_country = no
+    allow_in_gold_provinces = yes
+    onmap = no
+	potential = {
+		NOT = { has_global_flag = No_Roads }
+	}
+	
+	trigger = {
+		development = 20
+	}
+	
+	modifier = {
+		local_tax_modifier = 0.50
+		trade_goods_size_modifier = 0.25
+		local_state_maintenance_modifier = -0.20
+	}
+	ai_will_do = {
+		factor = 1
+	}
+}
