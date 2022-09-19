@@ -17,18 +17,7 @@ BET = "countries/Beterton.txt"
 IST = "countries/Isto.txt"
 NIS = "countries/Nishi.txt"
 #Scandinavia
-SWE	= "countries/Sweden.txt"
-DAN	= "countries/Denmark.txt"
-FIN	= "countries/Finland.txt"
-GOT	= "countries/Gotland.txt"
-NOR	= "countries/Norway.txt"
-SHL	= "countries/Holstein.txt"
-SCA	= "countries/Scandinavia.txt"
-EST = "countries/Estonia.txt"
-LVA = "countries/Livonia.txt"
-SMI = "countries/Sami.txt"
-KRL = "countries/Karelia.txt"
-ICE = "countries/Iceland.txt"
+
 
 #Balkans
 ACH	= "countries/PrincipalityOfAchaia.txt"
@@ -61,11 +50,11 @@ TUR	= "countries/Ottomans.txt"
 #British Isles 
 CNN = "countries/Connacht.txt"
 CRN	= "countries/Cornwall.txt"
-ENG	= "countries/England.txt"
+
 LEI = "countries/Leinster.txt"
 IRE	= "countries/Ireland.txt"
 PRL= "countries/Perowland.txt"
-SCO	= "countries/Scotland.txt"
+
 TYR = "countries/Tyrone.txt"
 WLS	= "countries/Wales.txt"
 NOL = "countries/Northumberland.txt"
@@ -81,7 +70,6 @@ TRY = "countries/Tyrconnell.txt"
 FLY = "countries/Faly.txt"
 #MCM = "countries/MacCarthy.txt" #Kingdom of Desmond
 KOI = "countries/Mann.txt"
-LOI = "countries/TheIsles.txt"
 
 #Colonies
 BRZ	= "countries/Brazil.txt"
@@ -112,21 +100,7 @@ WSI = "countries/WestIndies.txt"
 CUB = "countries/Cuba.txt"
 
 #Eastern Europe
-DNZ	= "countries/Danzig.txt"
-KRA	= "countries/Krakow.txt"
-LIT	= "countries/Lithuania.txt"
-LIV	= "countries/LivonianOrder.txt"
-MAZ	= "countries/Mazovia.txt"
-POL	= "countries/Poland.txt"
-PRU	= "countries/Prussia.txt"
-KUR	= "countries/Kurland.txt"
-RIG	= "countries/Riga.txt"
-TEU	= "countries/Teutonicorder.txt"
-PLC = "countries/TheCommonwealth.txt"
-VOL	= "countries/Volyn.txt"
-KIE	= "countries/Kiev.txt"
-CHR	= "countries/Chernigov.txt"
-OKA = "countries/Oka.txt"
+
 
 #France 
 ALE = "countries/Alencon.txt"
@@ -245,16 +219,7 @@ LAN	= "countries/Florence.txt"
 JAI	= "countries/Malta.txt"
 
 #Low Countries
-BRB	= "countries/Brabant.txt"
-FLA	= "countries/Flanders.txt"
-FRI	= "countries/Friesland.txt"
-GEL	= "countries/Gelre.txt"
-HAI	= "countries/Hainaut.txt"
-HOL	= "countries/Holland.txt"
-LIE	= "countries/Liege.txt"
-LUX	= "countries/Luxembourg.txt"
-NED	= "countries/Netherlands.txt"
-UTR	= "countries/Utrecht.txt"
+
 
 #Russia 
 ARM	= "countries/Armenia.txt"
@@ -263,7 +228,7 @@ CRI	= "countries/Crimea.txt"
 GEO	= "countries/Georgia.txt"
 KAZ	= "countries/Kazan.txt"
 MOS	= "countries/Muscowy.txt"
-NOV	= "countries/Novgorod.txt"
+
 PSK	= "countries/Pskov.txt"
 QAS	= "countries/QasimKhanate.txt"
 RUS	= "countries/Russia.txt"
@@ -926,7 +891,7 @@ BLG = "countries/Bologna.txt"
 PDV = "countries/Padova.txt"
 SZO = "countries/Saluzzo.txt"
 SPL = "countries/Spoleto.txt"
-WOL = "countries/Wolgast.txt"
+
 STE = "countries/Stettin.txt"
 GOS = "countries/Goslar.txt"
 SOR = "countries/Sorbia.txt"
